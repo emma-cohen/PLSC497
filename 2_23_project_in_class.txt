@@ -1,0 +1,11 @@
+What research question do you want to answer?
+Does the framing of "fake news" affect people's beliefs/polarization?
+
+What are two possible answers?
+There could be no effect or framing something as "fake news" could make people less likely to believe it.
+
+What are the documents of text data you will analyze?
+Tweets of members of Congress
+
+Give two examples of documents in the corpus that you expect will be high in similarity to each other? Two examples that are *low* in similarity?
+Tweets from members in the same party are likely to be high in similarity. Tweets from members of different parties will likely be low in similarity. 
